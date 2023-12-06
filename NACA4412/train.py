@@ -10,6 +10,7 @@ from train_configs import NACA_config
 """
 Train PINN for NACA4412 BL
 
+
 Return: 
     1. A npz file contain: 
                           + Prediction "pred" : [u, v, uv, uu, vv, p]
